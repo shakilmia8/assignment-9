@@ -12,7 +12,7 @@ const Courses = () => {
             .then(res => res.json())
             .then(data => setMoreCourses(data));
     }, [])
-    const coursesBanner = 'https://lh3.googleusercontent.com/proxy/t1yVcVjwGx3-pGO4oqUQx8PBPyUzSPg8chNZ-tOGwAgYK63R0YawXdBikOlWhi3_zYIZi23H8up679GneqKY34VAXCTwSkSr7c_noXC-ybQEj_vrDFHComL94EpIwLMEN_w';
+    const coursesBanner = 'https://www.kbvtiindia.org/images/cources-banner.jpg';
     return (
         <div>
             <img className='banner-img' src={coursesBanner} alt="" />
