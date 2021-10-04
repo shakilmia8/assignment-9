@@ -31,15 +31,15 @@
 }
 
 /* courses section style */
-.courses-container{
+.design-container{
     margin-top: 50px;
 }
-.courses-container h2{
+.design-container h2{
     color:darkmagenta;
     font-size: 50px;
     margin-bottom: 50px;
 }
-.courses-container Button{
+.design-container Button{
     margin-left: 385px;
     margin-bottom: 20px;
 }

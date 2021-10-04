@@ -2,22 +2,22 @@ import React from 'react';
 import { Container, Row } from 'react-bootstrap';
 import { useEffect } from 'react';
 import { useState } from 'react';
-import MoreCourse from '../MoreCourse/MoreCourse';
+import Teacher from '../Teacher/Teacher';
 
-const Courses = () => {
-    const [moreCourses, setMoreCourses] = useState([]);
+const Teachers = () => {
+    const [teachers, setTeachers] = useState([]);
     useEffect(() => {
-        fetch('./moreCourses.json')
+        fetch('./teachers.json')
             .then(res => res.json())
-            .then(data => setMoreCourses(data));
-    }, [])
+            .then(data => setTeachers(data));
+    }, []);
     return (
         <div>
             <Container className='design-container'>
-                <h2>Our Another Courses</h2>
+                <h2>Our Teachers</h2>
                 <Row xs={1} sm={1} md={2} lg={3} className="g-4">
                     {Array.from({ length: 1 }).map((_, idx) => (
-                        moreCourses.map(moreCourse => <MoreCourse key={moreCourse.id} moreCourse={moreCourse}></MoreCourse>)
+                        teachers.map(teacher => <Teacher key={teacher.key} teacher={teacher}></Teacher>)
                     ))}
                 </Row>
             </Container>
@@ -25,4 +25,4 @@ const Courses = () => {
     );
 };
 
-export default Courses;
+export default Teachers;

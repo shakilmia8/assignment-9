@@ -7,6 +7,7 @@ import Home from './components/Home/Home';
 import './App.css';
 import Courses from './components/Courses/Courses';
 import About from './components/About/About';
+import Teachers from './components/Teachers/Teachers';
 
 function App() {
   return (
@@ -22,6 +23,9 @@ function App() {
           </Route>
           <Route path='/courses'>
             <Courses></Courses>
+          </Route>
+          <Route path='/teachers'>
+            <Teachers></Teachers>
           </Route>
           <Route path='/about'>
             <About></About>

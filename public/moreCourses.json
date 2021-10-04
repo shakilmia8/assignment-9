@@ -1,0 +1,38 @@
+[
+    {
+        "id": 201,
+        "name": "Big Data Analysis",
+        "description": "By learning data analysis, you can help companies take more informed business decisions through analyzing transaction data and other forms of data that otherwise couldn't be tracked by conventional business intelligence programs. There are many organizations and online business schools that offer Big Data and and business analytics courses where you'll be taught about creating, testing and analyzing data.",
+        "img": "https://www.indiaeducation.net/imagesvr_ce/3943/big-data-analysis.jpg"
+    },
+    {
+        "id": 202,
+        "name": "Online MBA",
+        "description": "Online MBA programs are very popular these days especially for working professionals who couldn't afford to pursue full time MBA. Online MBA programs are offered by various prestigious institutes. They have identical syllabus like that of a full time MBA programs, the only difference being that online MBA course are shorter and have flexible timings for the ease of working professionals.",
+        "img": "https://www.indiaeducation.net/imagesvr_ce/6510/Online%20MBA%201.jpg"
+    },
+    {
+        "id": 203,
+        "name": "Programming",
+        "description": "Programming is a vital part of setting up a website. There are various programming language to learn from. Programmers basically code algorithms in programming languages to run a program successfully. If you are interesting in solving complex algorithms, learn programming online and help solving complex codes on back-end to smoothly run programs on front-end of a website.",
+        "img": "https://www.indiaeducation.net/imagesvr_ce/7874/r4yytfg4ylhvjnaaqgcl.jpg"
+    },
+    {
+        "id": 204,
+        "name": "Film Making",
+        "description": "For those who are interesting in things that happens behind the camera can enroll themselves in film making course online and learn the basics. people who have always been enthusiastic about movie making but couldn't pursue a career in the filed can take up a short term course online and acquire skills to direct their own short films and feature films.",
+        "img": "https://www.indiaeducation.net/imagesvr_ce/6647/karachi-photographer-74c43.jpg"
+    },
+    {
+        "id": 205,
+        "name": "Foreign Language Courses",
+        "description": "Learning foreign language can add brownie points to your CV. Additionally, it will help you to improve your vocabulary and interacting skills. With online courses on offer, learning any foreign language of your choice is no more a distant dream. So enroll yourself to your favorite foreign language courses soon. Leaning foreign language can also help you to bag the job of a translator.",
+        "img": "https://www.indiaeducation.net/imagesvr_ce/2367/Language.jpg"
+    },
+    {
+        "id": 206,
+        "name": "Photography",
+        "description": "Good photographs are necessary for any kind of work, be it personal or professional. You need good photos of yourself and your friends to share it across social media, you need to click good photos when you are traveling, you need good photos for your products when you run an e-commerce store. You can make stories through a series of photographs. No wonder,",
+        "img": "https://www.indiaeducation.net/imagesvr_ce/8769/photography12.jpg"
+    }
+]
