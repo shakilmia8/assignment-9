@@ -1,0 +1,36 @@
+.contact{
+    margin: 40px 0px;
+}
+.contact h1{
+font-size: 60px;
+margin-bottom: 20px;
+color: purple;
+}
+
+.contact-text{
+    margin: 0px 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.contact-number{
+    width: 428px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.contact Button{
+    padding: 10px 30px;
+}
+
+.other span{
+    color:purple;
+}
+.other i{
+    font-size: 40px;
+    margin: 20px 30px;
+}
+.other i:hover{
+    font-size: 45px;
+    color: blue;
+}

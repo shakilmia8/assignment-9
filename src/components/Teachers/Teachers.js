@@ -11,8 +11,10 @@ const Teachers = () => {
             .then(res => res.json())
             .then(data => setTeachers(data));
     }, []);
+    const teachersBanner = 'https://thumbs.dreamstime.com/b/group-teachers-white-background-banner-design-181139111.jpg';
     return (
         <div>
+            <img className='banner-img' src={teachersBanner} alt="" />
             <Container className='design-container'>
                 <h2>Our Teachers</h2>
                 <Row xs={1} sm={1} md={2} lg={3} className="g-4">

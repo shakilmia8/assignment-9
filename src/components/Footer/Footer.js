@@ -7,7 +7,7 @@ const Footer = () => {
     const element = <FontAwesomeIcon icon={faHeart} />;
     return (
         <div className='footer'>
-            <p>Copyright &copy;2021 All rights reserved | This template is made with {element} by cpi</p>
+            <p>Copyright &copy;2021 All rights reserved | This template is made with <span>{element}</span> by <span>cpi</span> </p>
         </div>
     );
 };

@@ -8,6 +8,7 @@ import './App.css';
 import Courses from './components/Courses/Courses';
 import About from './components/About/About';
 import Teachers from './components/Teachers/Teachers';
+import Contact from './components/Contact/Contact';
 
 function App() {
   return (
@@ -29,6 +30,9 @@ function App() {
           </Route>
           <Route path='/about'>
             <About></About>
+          </Route>
+          <Route path='/contact'>
+            <Contact></Contact>
           </Route>
           <Route path='*'>
             <NotFound></NotFound>
