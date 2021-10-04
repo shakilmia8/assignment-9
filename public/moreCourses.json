@@ -32,7 +32,25 @@
     {
         "id": 206,
         "name": "Photography",
-        "description": "Good photographs are necessary for any kind of work, be it personal or professional. You need good photos of yourself and your friends to share it across social media, you need to click good photos when you are traveling, you need good photos for your products when you run an e-commerce store. You can make stories through a series of photographs. No wonder,",
+        "description": "Good photographs are necessary for any kind of work, be it personal or professional. You need good photos of yourself and your friends to share it across social media, you need to click good photos when you are traveling, you need good photos for your products when you run an e-commerce store. You can make stories through a series of photographs. No wonder, why so many people are passionate about photography these days. There are plenty of institutes that offer online photography courses too. Once you get the training, you can freelance or work for ad agencies, television channels etc.",
         "img": "https://www.indiaeducation.net/imagesvr_ce/8769/photography12.jpg"
+    },
+    {
+        "id": 207,
+        "name": "Machine Learning",
+        "description": "This machine learning course offers Introduction to machine learning, data mining, and statistical pattern recognition. The course will also help you to draw from numerous case studies and applications. You will also learn about applying algorithms to create smart robots, medical informatics, audio database mining, and various other areas.",
+        "img": "https://blog.integral-system.fr/wp-content/uploads/2020/02/33797061.jpg"
+    },
+    {
+        "id": 208,
+        "name": "IBM Data Science",
+        "description": "IBM Data Science Professional Certificate course helps you to pursue a career in machine learning or data science to develop career-relevant skills and experience.    This course bundle consists of 9 online data science courses that will provide you with the latest job-ready tools and skills, including open-source tools and libraries,",
+        "img": "https://cdn.guru99.com/images/2/092420_1127_Top7Courses5.jpg"
+    },
+    {
+        "id": 209,
+        "name": "Python for Everybody",
+        "description": "Python for everybody specialization is a course that helps you to learn the basics of programming using Python language. This course introduces you to the fundamental programming concepts, including data structures, networked application program interfaces, using the Python programming language. With the given case study of the...",
+        "img": "https://i.ytimg.com/vi/ZWI-jrnbMhA/maxresdefault.jpg"
     }
 ]
