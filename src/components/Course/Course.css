@@ -1,0 +1,17 @@
+.course-container{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.course-card:hover{
+    color:#fff;
+    background-color: purple;
+    border: 3px solid yellowgreen;
+    border-radius: 10px;
+}
+.img{
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-left: 120px;
+    width:100px;
+    height: 100px;
+}

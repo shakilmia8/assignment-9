@@ -1,0 +1,11 @@
+.about{
+    margin-left: 300px;
+    width: 600px;
+    text-align: left;
+}
+.about h2{
+    color: purple;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 40px;
+}

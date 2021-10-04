@@ -1,0 +1,45 @@
+
+.home-container{
+    background-color: #ddd;
+    
+}
+
+/* banner section style */
+.banner-container{
+    background-color: #F6F6F6;
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+.banner-content{
+    margin-top: 80px;
+}
+.banner-content h1{
+    text-align: left;
+    color: purple;
+    font-size: 60px;
+}
+.banner-content button{
+    padding: 10px 20px;
+    margin-top: 20px;
+    margin-left: -335px;
+}
+.banner img{
+    width: 500px;
+}
+
+/* courses section style */
+.courses-container{
+    margin-top: 50px;
+}
+.courses-container h2{
+    color:darkmagenta;
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+.courses-container Button{
+    margin-left: 385px;
+    margin-bottom: 20px;
+}
