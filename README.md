@@ -1,6 +1,6 @@
 # Getting Started with E-learning website
 
-This project visited [Click here](https://e-learning-bd.netlify.app/courses).
+This project visited [Click here](https://e-learning-bd.netlify.app).
 
 ## Benefits of E-learning website
 
